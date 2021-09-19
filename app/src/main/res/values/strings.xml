@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Just Funny Toys</string>
+    <string name="happy_birthday_text">Happy Birthday, Momo!</string>
+    <string name="signature_text">From Hone.</string>
 </resources>
